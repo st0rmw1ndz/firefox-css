@@ -1,0 +1,9 @@
+/* Settings toolbar button */
+#preferences-button {
+	padding-right: 8px !important;
+}
+
+/* Menu toolbar button */
+#PanelUI-menu-button {
+	display: none;
+}

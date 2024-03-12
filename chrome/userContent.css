@@ -1,0 +1,12 @@
+/* New tab page */
+@-moz-document url-prefix(about:home), url-prefix(about:newtab) {
+    /* Firefox logo and wordmark */
+	.logo-and-wordmark {
+		display: none !important;
+	}
+
+    /* Settings button (top right) */
+	.icon.icon-settings.personalize-button {
+		display: none !important;
+	}
+}
